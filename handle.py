@@ -6,7 +6,7 @@ import web
 import receive
 import time
 import os
-
+from chatter import get_response
 
 class Handle(object):
 
@@ -48,7 +48,7 @@ class Handle(object):
             if isinstance(recMsg, receive.Msg) and recMsg.MsgType == 'text':
                 toUser = recMsg.FromUserName
                 fromUser = recMsg.ToUserName
-                content = "欢迎关注糊言软语ing！" + str(recMsg.Content)
+                content = get_response(str(recMsg.Content))             # 调用聊天机器人接口
                 print('Reply message info:\n')
                 print('toUser =', toUser)
                 print('fromUser = ', fromUser)
