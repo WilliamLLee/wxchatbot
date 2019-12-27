@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8955a48e-dde8-46b0-97c4-ca7897d3c097" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VZ2AGS4olORVNCCQ35FbbWzoKQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8955a48e-dde8-46b0-97c4-ca7897d3c097" name="Default Changelist" comment="" />
+      <created>1577446151046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577446151046</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1577462384314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577462384315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="812" y="148" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1577461305534">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="812" y="148" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.30.1536.834@0.30.1536.834" timestamp="1577461305534" />
+    <state x="0" y="51" key="CommitChangelistDialog2" timestamp="1577462616642">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="0" y="51" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1577462616642" />
+    <state x="420" y="102" key="SettingsEditor" timestamp="1577460920697">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="420" y="102" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1577460920697" />
+  </component>
+</project>
