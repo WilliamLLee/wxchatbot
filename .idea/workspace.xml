@@ -2,8 +2,434 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8955a48e-dde8-46b0-97c4-ca7897d3c097" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/corpus/DIY.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corpus/cc.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corpus/teacher.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corpus/xueyuan.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/严建援.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/于仲鸣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/于斌.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/于良芝.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/任兵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/任星耀.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/伍振华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/余娟.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/侯文华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/冯湘君.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/刘俊振.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/刘勇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/刘建华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/刘彦平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/刘彦平.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/刘志远.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/刘欢.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/卿志琼.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/史建恩.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/吕峰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/吴德胜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/吴晓云.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/周宝源.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/周建.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/周晓苏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/周楠.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/姚颐.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/孙凌霞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/孙更杰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/安利平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/宗先臻.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/崔勋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/崔连广.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张丹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张国萍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张建勇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张建华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张晓农.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张晓飞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张永强.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张玉利.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张立富.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张继勋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张耀伟.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/张苏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/徐亚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/徐建华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/徐曼.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/戚安邦.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/方磊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/朱春艳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李东进.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李亚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李元.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李全.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李凯.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李勇建.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李哓新.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李圭泉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李姝.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李季.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李建标.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李新建.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李旭光.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李月琳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李桂华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李莉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/李颖.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/杜建刚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/杨俊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/杨坤.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/杨斌.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/杨玉武.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/杨静蕾.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/林伟鹏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/林润辉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/柯平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/柳茂平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/梁峰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/梅丹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/樊振佳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/武立东.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/焦媛媛.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/牛建波.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/牛芳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王健友.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王全喜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王志红.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王晶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王曼舒.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王永进.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王玮.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王琳琳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王知津.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王芳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王谦.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王迎军.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/王金立.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/田莉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/申光龍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/白文琳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/石鉴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/秦凡.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/程新生.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/程茜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/程莉莉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/肖笛.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/肖雪.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/胡望斌.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/薛有志.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/薛红志.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/袁庆宏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/覃家琦.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/许晖.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/许销冰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/谷卫.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/赵乐.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/赵伟.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/赵福厚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/赵路.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/车建国.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/边泓.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/邢金刚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/郑晓莹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/郑琦.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/郑轶松.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/郝臣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/陆宇建.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/陈国欣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/陈萍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/隋静.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/韩德昌.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/马连福.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/高洪利.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/黄福广.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/齐善鸿.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bs/imgs/齐岳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/SranMladenovJovanovi心子.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/丁见民.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/付成双.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/何孝荣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/余新忠.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/侯杰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/元青.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/党超.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/刘尊志.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/刘晓.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/刘晓琴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/刘毅.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/卞利.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/叶民.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/夏炎.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/姜胜利.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/孙卫国.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/安德.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/崔岩.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/常建华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/庞乃明.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/庞国庆.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/张传勇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/张国文.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/张岩.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/张思.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/张聚国.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/张荣明.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/彭贺超.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/徐思伟.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/徐诗薇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/敖堃.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/方万鹏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/朱彦民.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/朱洪斌.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/李凡.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/李宪堂.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/李小林.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/李少兵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/李晶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/李永胜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/李治安.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/李金铮.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/杨东明.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/杨令侠.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/杨巨平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/杨振红.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/杨栋梁.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/杨永明.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/武鹏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/毛立坤.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/江沛.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/潘芳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王以欣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王先明.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王凛然.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王利华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王力平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王安泰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王文隆.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王晓欣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王美平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王萍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王薇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/王音.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/程平山.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/罗宣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/肖军.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/肖玉秋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/胡宝华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/董国辉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/董瑜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/薛磊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/袁玮蔓.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/袁胜文.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/贺江枫.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/贾洪波.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/赵学功.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/赵庆淼.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/邓丽兰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/邵大路.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/郑玮.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/闫爱民.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/陈志强.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/陈畅.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/陈絜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/韩琦.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/马思宇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/马晓林.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/黄春雨.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ht/imgs/黄相辅.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/万国华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/于语和.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/付士成.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/何红锋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/冯学伟.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/刘士心.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/刘安翠.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/刘芳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/刘萍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/刘鹏飞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/史学瀛.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/向波.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/吕怡维.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/唐颖侠 .jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/孔令苇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/孙炜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/宋华琳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/岳纯之.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/左海聪 .jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/张志坡.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/张玲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/时晨.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/朱京安.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/朱桐辉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/李晓兵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/李蕊佚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/杨广平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/杨文革.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/柯振兴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/王强军.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/王彬.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/王瑞雪.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/王鹏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/申进忠.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/石巍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/秦瑞亭.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/程宝库.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/胡建国.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/许光耀.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/谢晴川.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/贾卓威.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/贾敬华.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/赵晶晶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/郑泽善.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/闫尔宝.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/陈兵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/陈耀东.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/隋伟.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/隗佳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/高通.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/law/imgs/黄宇昕.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/乔以钢.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/任增霞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/任德魁.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/何厚今.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/何洪禄.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/余才林.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/兰娟.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/冯大建.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/刘俐俐.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/刘堃.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/刘忠波.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/刘畅.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/刘运峰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/卢桢.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/卢燕新.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/卢盛江.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/吴立行.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/吴若明.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/周志强.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/周才庶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/周青.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/孔祥卿.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/孙克强.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/孙昌武.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/孙易.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/孟昭连.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/孟超美.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/宁稼雨.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/尹沧海.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/岳英放.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/崔克刚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/常晓静.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/张品.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/张培锋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/张峰屹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/张文恒.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/张旺.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/张毅.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/张永敬.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/张静.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/徐文.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/意西微萨·阿错.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/戴维.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/曾晓渝.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李军.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李剑国.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李新宇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李春霞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李润霞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李玉平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李瑞山.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李莉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李锡龙.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/李雨红.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/杜森.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/杨传庆.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/杨岚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/杨洪升.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/杨熹发.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/杨琳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/林晨.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/查洪德.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/梁小建.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/汪梦川.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/沈立岩.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/潘家荣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/熊培云.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王之江.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王力.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王志耕.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王旭峰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王琪.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王立新.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王红.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王红旗.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/王萍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/石锋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/罗宗强.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/罗振亚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/罗维斯.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/耿传明.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/胡学常.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/范曾.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/葛毓.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/薛义.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/薛英杰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/袁明军.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/谢朝.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/谷峰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/赵均.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/赵季.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/郭昭军.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/金鑫.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/陈倩.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/陈千里.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/陈宁.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/陈洪.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/陈聿东.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/陈鹏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/陶慕宁.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/马庆株.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/马春靓.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/马瑞洁.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/高奈延.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/高涵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/高迎进.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/黄一.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/黄镇煌.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lt/imgs/齐海涛.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/Francesco Di Iorio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/于涛.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/卢兴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/叶树勋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/吴学国.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/张仕颖.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/张晓芒.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/曹钦.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/朱进富.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/李国山.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/李娜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/林建武.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/王南湜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/王建军.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/王新生.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/王时中.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/翟锦程.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/薛富兴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/贾向桐.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/贾江鸿.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/赵亚琼.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/钟汉川.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/陶锋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/phi/imgs/齐艳红.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handle.py" beforeDir="false" afterPath="$PROJECT_DIR$/handle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wxchatbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wxchatbot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpus_mk.py" beforeDir="false" afterPath="$PROJECT_DIR$/corpus_mk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/retrain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +458,124 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.corpus_mk">
+    <configuration name="chatter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wxchatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="corpus_mk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wxchatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/corpus_mk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wxchatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="retrain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wxchatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retrain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wxchatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.corpus_mk" />
+        <item itemvalue="Python.chatter" />
+        <item itemvalue="Python.retrain" />
+        <item itemvalue="Python.data" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -92,7 +635,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577467324895</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add chatter">
+      <created>1577467495470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577467495470</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -102,17 +652,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="add chatter" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="812" y="148" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1577461305534">
+    <state x="812" y="148" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1577520690559">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="812" y="148" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.30.1536.834@0.30.1536.834" timestamp="1577461305534" />
+    <state x="812" y="148" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.30.1536.834@0.30.1536.834" timestamp="1577520690559" />
     <state x="0" y="51" key="CommitChangelistDialog2" timestamp="1577467493752">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="0" y="51" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1577467493752" />
-    <state x="420" y="102" key="SettingsEditor" timestamp="1577467106530">
+    <state x="645" y="190" key="FileChooserDialogImpl" timestamp="1577477943920">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="420" y="102" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1577467106530" />
+    <state x="645" y="190" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1577477943920" />
+    <state width="896" height="179" key="GridCell.Tab.0.bottom" timestamp="1577521248401">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="896" height="179" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1577521248401" />
+    <state width="896" height="179" key="GridCell.Tab.0.center" timestamp="1577521248401">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="896" height="179" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1577521248401" />
+    <state width="896" height="179" key="GridCell.Tab.0.left" timestamp="1577521248401">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="896" height="179" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1577521248401" />
+    <state width="896" height="179" key="GridCell.Tab.0.right" timestamp="1577521248401">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="896" height="179" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1577521248401" />
+    <state x="420" y="102" key="SettingsEditor" timestamp="1577517186063">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="420" y="102" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1577517186063" />
   </component>
 </project>

@@ -7,10 +7,12 @@
 from chatbot import myChatBot
 
 def get_response(ask):
+    if ask == "":
+        return "为什么不说话了"
     response = myChatBot.get_response(ask)
     return response
 
-if __name__ == "__chatter__":
+if __name__ == "__main__":
     while True:
         try:
             response = myChatBot.get_response(input())

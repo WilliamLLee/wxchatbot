@@ -12,18 +12,25 @@ myChatBot = ChatBot(
     logic_adapters=[
         {
             'import_path': 'chatterbot.logic.BestMatch',
-            # 'default_response': '我没明白你的意思诶，不过我会继续学习的！',
+            'default_response': '我没明白你的意思诶，不过你可以问我南开教师有关的问题，我对计算机学院的老师很熟悉哦！我还会说笑话唱歌呢！',
             'maximum_similarity_threshold': 0.90
+        },
+        {
+            'import_path': 'chatterbot.logic.SpecificResponseAdapter',
+            'input_text': 'Jack,在吗？',
+            'output_text': '我一直都在你的心里^_^',
         }
     ],
     statement_comparison_function=comparisons.levenshtein_distance,
+    # statement_comparison_function=comparisons.SynsetDistance,
     preprocessors=[
         'chatterbot.preprocessors.clean_whitespace',
         'chatterbot.preprocessors.unescape_html',
     ],
     filters=[filters.get_recent_repeated_responses],            # 去除最近重复的回应，避免机器人重复说一样的话
     response_selection_method = response_selection.get_first_response,
-    input_adapter='chatterbot.input.VariableInputTypeAdapter',
-    output_adapter='chatterbot.output.OutputAdapter',
+    # input_adapter='chatterbot.input.VariableInputTypeAdapter',
+    # output_adapter='chatterbot.output.OutputAdapter',
+    read_only=True,    # 避免在学习每一次对话输入
 )
 
