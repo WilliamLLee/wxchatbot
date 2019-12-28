@@ -70,5 +70,5 @@ def create_cc_info():
     return 0
 
 if __name__ == "__main__":
-    #create_teacher_info_corpus()
+    create_teacher_info_corpus()
     create_cc_info()

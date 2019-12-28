@@ -28,7 +28,8 @@ myChatBot = ChatBot(
         'chatterbot.preprocessors.unescape_html',
     ],
     filters=[filters.get_recent_repeated_responses],            # 去除最近重复的回应，避免机器人重复说一样的话
-    response_selection_method = response_selection.get_first_response,
+    #response_selection_method = response_selection.get_first_response,
+    response_selection_method = response_selection.get_random_response,
     # input_adapter='chatterbot.input.VariableInputTypeAdapter',
     # output_adapter='chatterbot.output.OutputAdapter',
     read_only=True,    # 避免在学习每一次对话输入
